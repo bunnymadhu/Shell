@@ -10,3 +10,8 @@ Topics are
 6. Functions
 7. Conditions
 8. Loops
+
+## 
+UNIX --> SH, KSH, CSH (K-SHELL,C-SHELL)
+LINUX --> BASH (BORN AGAIN SHELL) 
+BASH is default in all Linux OS.
