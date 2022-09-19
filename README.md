@@ -13,5 +13,5 @@ Topics are
 
 ## 
 UNIX --> SH, KSH, CSH (K-SHELL,C-SHELL)
-LINUX --> BASH (BORN AGAIN SHELL) 
+LINUX --> BASH (BORN AGAIN SHELL)  [ SH + KSH + CSH ] 
 BASH is default in all Linux OS.
