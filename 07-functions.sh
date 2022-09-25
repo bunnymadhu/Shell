@@ -6,6 +6,6 @@ SAMPLE() {
    echo Welcome to SAMPLE function
 }
 
-## Access your Fuction
+## Access your Function
 
 SAMPLE
